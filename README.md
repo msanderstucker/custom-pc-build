@@ -2,6 +2,9 @@
 
 [![YouTube Demonstration](https://img.shields.io/badge/YouTube-Watch%20Build-red?style=for-the-badge&logo=youtube)](https://youtu.be/4U5wmjODBLQ)
 
+<img src="https://private-user-images.githubusercontent.com/58090419/700065528-a0600f3c-98db-4c5a-a56b-388bb7f114d1.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNTQ3MTAsIm5iZiI6MTc5NDI1NDQxMCwicGF0aCI6Ii81ODA5MDQxOS83MDAwNjU1MjgtYTA2MDBmM2MtOThkYi00YzVhLWE1NmItMzg4YmI3ZjExNGQxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA5VDIwMDAxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzQyMzgxZTI4YWFmYTA2MjgxMjBjZTVlY2VmNTVkODI4NzM0YWYwOWM4YmZlZWZmZWVlMWI0Zjg3NzJiMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmpwZWcifQ.-Ou62MGY3q8X35z61Kl0w2bgzpVmpz-dehdw6R9jtFw" alt="PC Initial Build">
+
+
 ## Description
 A comprehensive documentation repository and historical archive detailing the physical assembly, component selection, thermal optimization, and system provisioning for a custom-built desktop workstation. Built to reject the closed-ecosystem, unserviceable constraints of consumer laptops, this project highlights rigorous hardware compatibility, thermal management, and multi-year lifecycle maintenance.
 
