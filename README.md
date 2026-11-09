@@ -1,6 +1,6 @@
 # Custom PC Build: Hardware Assembly & Configuration
 
-[![YouTube Demonstration](https://img.shields.io/badge/YouTube-Watch%20Build-red?style=for-the-badge&logo=youtube)](https://youtu.be/)
+[![YouTube Demonstration](https://img.shields.io/badge/YouTube-Watch%20Build-red?style=for-the-badge&logo=youtube)](https://youtu.be/4U5wmjODBLQ)
 
 ## Description
 A comprehensive documentation repository and historical archive detailing the physical assembly, component selection, thermal optimization, and system provisioning for a custom-built desktop workstation. Built to reject the closed-ecosystem, unserviceable constraints of consumer laptops, this project highlights rigorous hardware compatibility, thermal management, and multi-year lifecycle maintenance.
