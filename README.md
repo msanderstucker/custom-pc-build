@@ -28,7 +28,7 @@ The OS deployment was finalized with a clean Windows 11 installation, drive part
 
 ## Hardware Provenance & Build Archive
 
-<p align="center">
+<p align="left">
   Component inventory and hardware packaging verification:<br/>
   <img src="assets/component_boxes.jpg" width="80%" alt="Component Staging"/><br/><br/>
 
