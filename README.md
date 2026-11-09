@@ -19,6 +19,13 @@ A comprehensive documentation repository and historical archive detailing the ph
 - **HWMonitor / Cinebench** (Thermal and Stability Stress Testing)
 - **BIOS Utility / Performance Tuning** (Fan Curves and Memory Profiling)
 
+## The Process
+This build was engineered because standard laptops couldn't meet my workload demands, leaving me with hardware that held back both performance and practical learning. Being a Computer Science student, I needed a bare-metal system to build out home labs, run heavy CS software, and gain a direct, hands-on understanding of computer architecture. Constructing a modular desktop provided the thermal headroom, serviceability, and reliability required for intensive tasks like 3D modeling, video editing, and virtualized environments without hardware limitations getting in the way.
+
+In order to meet those requirements, I began doing component verification, layout planning, and thermal design. The physical assembly focused on airflow architecture and precision cable routing to maximize intake efficiency. After the hardware had been seated, my focus shifted to low-level optimization through configuring BIOS parameters, enabling memory profiling (XMP), and establishing custom fan curves to maintain optimal thermal margins under load.
+
+The OS deployment was finalized with a clean Windows 11 installation, drive partitioning, and stability benchmarking using Cinebench and HWiNFO to validate system health before putting the rig into active service.
+
 ## Hardware Provenance & Build Archive
 
 <p align="center">
